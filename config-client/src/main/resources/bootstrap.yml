@@ -1,0 +1,6 @@
+spirng:
+  application:
+    name: config-client
+  cloud:
+    config:
+      url: http://localhost:8888
